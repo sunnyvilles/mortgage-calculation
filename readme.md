@@ -2,8 +2,6 @@
 
 ## Setup
 
-Parent folder : mortgage-app
-
 Parent folder contains following two folders:
 
 	angular -> contains UI code
@@ -25,7 +23,7 @@ this folder contains webpack.config.js, karma.config.js and package.json
 
 #### Spring
 
-go to mortages-app/spring-boot and run following :
+go to spring-boot folder and run following :
 
 	clean install
 
@@ -34,11 +32,11 @@ just run following main application file using java:
 	mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/Application.java
 
 
-move to mortages-app/spring-boot/gatewaycontroller and run following command to create war:
+(optional) move to mortages-app/spring-boot/gatewaycontroller and run following command to create war:
 
 	 mvn clean package
 
-##localhost port:8080
+## go to localhost:8080 in your browser
 
 ###### spring boot setup contains following folders:
 	entities -> contains User class
@@ -48,8 +46,10 @@ move to mortages-app/spring-boot/gatewaycontroller and run following command to 
 
 
 ######Defaults:
+
 	username:jones
 	password:indiana
+	
 These are the only username and password that are accepted to login the page
 
 ## improvements (todo):
@@ -60,5 +60,6 @@ These are the only username and password that are accepted to login the page
 5. user registration system
 
 ## Issues faced:
-https://github.com/angular/angular/issues/18254
-https://github.com/webpack-contrib/karma-webpack/issues/188
+
+1. https://github.com/angular/angular/issues/18254
+2. https://github.com/webpack-contrib/karma-webpack/issues/188
