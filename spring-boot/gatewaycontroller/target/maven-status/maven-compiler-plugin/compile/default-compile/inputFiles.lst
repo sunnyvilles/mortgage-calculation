@@ -1,0 +1,7 @@
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/response/ResponseEntity.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/rs/MortgageRestService.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/response/ResponseStatus.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/response/ResponseBuilder.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/filter/JWTAuthFilter.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/Application.java
+/Users/Shared/mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/rs/AuthService.java

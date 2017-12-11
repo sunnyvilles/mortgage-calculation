@@ -1,0 +1,17 @@
+@import 'bootstrap.min.css';
+
+.container{
+
+	padding-top: 50px;
+
+}
+.result-section{
+
+	padding-top:20px;
+}
+
+#result-value{
+
+	font-size:2em;
+	
+}
