@@ -29,10 +29,10 @@ go to spring-boot folder and run following :
 
 just run following main application file using java:
 
-	mortages-app/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/Application.java
+	/spring-boot/gatewaycontroller/src/main/java/com/ing/mortgage/web/Application.java
 
 
-(optional) move to mortages-app/spring-boot/gatewaycontroller and run following command to create war:
+(optional) move to /spring-boot/gatewaycontroller and run following command to create war:
 
 	 mvn clean package
 
@@ -42,7 +42,7 @@ just run following main application file using java:
 	entities -> contains User class
 	services -> authentication and mortgage services
 	gatewaycontroller -> Rest service implementation , Angular/UI compressed code
-	utils -> authentication utilites 
+	utils -> authentication utilites , Junit test file for service
 
 
 ######Defaults:
